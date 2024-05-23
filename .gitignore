@@ -1,0 +1,6 @@
+api_key
+__pycache___
+*.pyc
+rag_llm_venv
+.env
+example-author-searcher-app.py
