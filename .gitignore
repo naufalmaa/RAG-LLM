@@ -4,3 +4,8 @@ __pycache___
 rag_llm_venv
 .env
 example-author-searcher-app.py
+store
+chroma
+*.bin
+*.sqlite3
+*.toml
